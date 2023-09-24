@@ -1,6 +1,6 @@
-# Mohamed Nijadi
+<h1 align='center'>Mohamed Nijadi</h1>
 
-## Data Science | Analytics | Machine Learning
+<h2 align='center'>Data Science | Analytics | Machine Learning</h2>
 
 ---
 
