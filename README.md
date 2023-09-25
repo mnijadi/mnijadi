@@ -8,6 +8,4 @@ I am currently trying to improve my problem solving skills using data by working
 
 - mnijadi@insea.ac.ma
 - [LinkedIn](https://www.linkedin.com/in/mohamed-nijadi-771a69290/)
-- [Medium](https://medium.com/@mnijadi)
 - [Twitter](https://twitter.com/MohamedNijadi)
-- [Kaggle](https://www.kaggle.com/mohamednijadi)
