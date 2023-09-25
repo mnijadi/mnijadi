@@ -6,6 +6,6 @@ I am currently trying to improve my problem solving skills using data by working
 
 ## Socials
 
-- mnijadi@insea.ac.ma
-- [LinkedIn](https://www.linkedin.com/in/mohamed-nijadi-771a69290/)
-- [Twitter](https://twitter.com/MohamedNijadi)
+![Email](https://img.shields.io/badge/mnijadi@insea.ac.ma-red?logo=microsoftoutlook&logoColor=white)
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamed-nijadi-771a69290%2F)
+![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&link=https%3A%2F%2Ftwitter.com%2FMohamedNijadi)
