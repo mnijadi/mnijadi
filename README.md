@@ -1,8 +1,8 @@
 # About Me
 
-I am Mohamed Nijadi, a final year Master's student at the National Institute of Statistics and Applied Economics (INSEA), Morocco, majoring in Data Science, with a diverse background in Computer Science, Statistics and experience in Analytics, Machine Learning and Deep Learning.  
-The main tool I use is Python and its large ecosystem of libraries (e.g. Pandas, Scikit-Learn, Tensorflow, Keras, etc.). I am also very familiar with SQL and Java, with some notions on the R language. I could also use other software such as Excel or Tableau depending on the project requirements.  
-I am currently trying to improve my problem solving skills using data by working on more projects, while following the best practices (cleaner code, Git, Docker, Linux, etc.) and exposing myself to new concepts (Big Data Analytics, MLops, Cloud Computing).
+I am Mohamed Nijadi, a fresh graduate engineer from INSEA specializing in the field of data. My professional experience and projects include working on data quality assessment, ETL pipelines, data visualization and dashboarding, predictive modeling, and I'm also familiar with MLOps and AI concepts.
+
+I am on the lookout for new challenges to apply my skills in order to transform data into actionable insights for solving business problems, and eager to connect with professionals in the field for advice and collaboration.
 
 ## Socials
 
